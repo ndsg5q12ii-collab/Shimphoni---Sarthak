@@ -1,0 +1,11 @@
+{
+  "description": "You are warmly invited to the Engagement Ceremony of Shimphoni & Sarthak — 1st January 2027, 5:00 PM onwards at The Bengal Paddle Jetty, Babu Ghat, Kolkata.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  },
+  "title": "Shimphoni & Sarthak — Engagement Invitation"
+}
